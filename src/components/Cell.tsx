@@ -23,3 +23,5 @@ const Cell: React.FC<CellInterface & React.HTMLAttributes<HTMLDivElement>> = ({
     ></div>
   );
 };
+
+export { Cell };
