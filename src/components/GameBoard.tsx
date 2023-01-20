@@ -1,11 +1,10 @@
 import React, { useEffect, useRef, useState } from "react";
+
 import produce from "immer";
 import {
-  CubeTransparentIcon,
   StarIcon,
   PlayIcon,
   PauseIcon,
-  CommandLineIcon,
   ArrowUpIcon,
   ArrowLeftIcon,
   ArrowDownIcon,
