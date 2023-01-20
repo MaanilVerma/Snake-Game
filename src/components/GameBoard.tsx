@@ -16,7 +16,6 @@ import {
   getCellObjects,
   getFoodCell,
   generateMazeWall,
-  generateHorizontalMaze,
 } from "../utils";
 import { Cell } from "./Cell";
 
